@@ -1,0 +1,10 @@
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (1, 'AB10 1XG', '57.144156','-2.114864');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (2, 'AB10 6RN', '57.137871','-2.121487');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (3, 'AB10 7JB', '57.124274','-2.127206');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (4, 'AB11 5QN', '57.142701','-2.093295');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (5, 'AB11 6UL', '57.137468','-2.112455');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (6, 'AB11 8RQ', '57.135968','-2.072115');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (7, 'AB12 3FJ', '57.097987','-2.077447');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (8, 'AB12 4NA', '57.064273','-2.130018');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (9, 'AB12 5GL', '57.081938','-2.246567');
+INSERT INTO postcodelatlng (id,postcode,latitude,longitude) VALUES (10, 'AB12 9SP', '57.148707','-2.097806');
